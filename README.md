@@ -1,3 +1,9 @@
+<img width="770" height="418" alt="sticker shop completion" src="https://github.com/user-attachments/assets/b4d80d5e-fa0c-47fa-853f-93db61217abe" />
+
+<img width="1094" height="766" alt="sticker shop vm image" src="https://github.com/user-attachments/assets/5696620a-cc6a-4821-848c-43fe44024f5e" />
+
+
+
 # TryHackMe: The Sticker Shop - Complete Technical Writeup
 
 A comprehensive architectural analysis and walkthrough for **The Sticker Shop** challenge on TryHackMe. This entry highlights the real-world tension between network-level infrastructure hardening and application-layer oversights, specifically detailing the identification, exploitation, and mitigation of **Blind Cross-Site Scripting (XSS)**.
